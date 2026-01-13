@@ -2,3 +2,4 @@ Hello world!
 rrr
 222
 333 test of enter
+git reset --soft HEAD^1
