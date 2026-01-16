@@ -12,3 +12,5 @@ wetki:
   git branch
   git branch develop
   git checkout -- develop
+
+  not a develop commit
