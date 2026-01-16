@@ -14,3 +14,5 @@ wetki:
   git checkout -- develop
 
   not a develop commit
+
+trying to delete
